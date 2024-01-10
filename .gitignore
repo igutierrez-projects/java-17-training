@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+more-java-17-trainning/.DS_Store
+more-java-17-trainning/.idea
+more-java-17-trainning/chapter_practice/chapter_1_annotations/annotation/.idea
+more-java-17-trainning/chapter_practice/chapter_1_annotations/annotation/annotation.iml
+.DS_store
