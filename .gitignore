@@ -27,4 +27,11 @@ more-java-17-trainning/.DS_Store
 more-java-17-trainning/.idea
 more-java-17-trainning/chapter_practice/chapter_1_annotations/annotation/.idea
 more-java-17-trainning/chapter_practice/chapter_1_annotations/annotation/annotation.iml
+more-java-17-trainning/chapter_practice/chapter_1_annotations/annotation/target
+
+more-java-17-trainning/chapter_practice/chapter_1_annotations/myannotations/target
+more-java-17-trainning/chapter_practice/chapter_1_annotations/myannotations/myannotations.iml
+
+*.iml
+*.idea
 .DS_store
